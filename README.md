@@ -1,4 +1,10 @@
-Decentralized application (dApp) designed for managing and trading carbon credits using blockchain technology. Built on the Ethereum network, it leverages smart contracts to create an ERC20-based token called CCT (Carbon Credit Token), which represents carbon credits. The system includes three main participants:
+# Decentralized Carbon Credit Trading Platform  
+
+[View Project Here](https://drive.google.com/file/d/1gihwMKxlzJEWz55pAdmN6UI6_qpUqdfd/view?amp;usp=embed_facebook&pli=1)
+
+A decentralized application (dApp) designed for managing and trading carbon credits using blockchain technology. Built on the Ethereum network, it leverages smart contracts to create an ERC20-based token called **CCT (Carbon Credit Token)**, which represents carbon credits.
+
+The system includes four main participants: 
 
 1.Suppliers: These are entities, such as companies or organizations, that carry out carbon-reduction projects. They submit project reports, which are stored on IPFS for transparency. Each report includes details like the project name, company information, geographic location, and carbon credits requested.
 
